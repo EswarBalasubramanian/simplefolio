@@ -71,7 +71,7 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:8080/` and you will see the website running on a Development Server:
 
 <h2 align="center">
-  <img src="https://hungry-banach-a527fb.netlify.app/" alt="Simplefolio" width="100%">
+ <a href="https://hungry-banach-a527fb.netlify.app/" width="100%">SimpleFolio</a>
 </h2>
 
 ---
